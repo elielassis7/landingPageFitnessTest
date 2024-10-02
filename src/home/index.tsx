@@ -26,7 +26,7 @@ export function Home() {
 
           <div className='flex flex-row shadow-2xl shadow-purple-500'>
             <input type="email" placeholder='Seu melhor e-mail' className='rounded-l-lg px-5 py-2 flex-1' />
-            <button onClick={() => pages('/success')} className='bg-purple-500 hover:bg-purple-400  active:scale-95 rounded-r-lg px-5 py-2 text-gray-100 font-bold'>Quero Assistir</button>
+            <button onClick={() => pages('/landingPageFitnessTest/success')} className='bg-purple-500 hover:bg-purple-400  active:scale-95 rounded-r-lg px-5 py-2 text-gray-100 font-bold'>Quero Assistir</button>
           </div>
           <p className='text-gray-300 text-xs flex flex-row items-center justify-center mt-3'>
             <Calendar size={16} color='#d1d5db' /> 01, 03 e 05 de março -
