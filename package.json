@@ -1,9 +1,9 @@
 {
+  "homepage": "https://elielassis7.github.io/landingPageFitnessTest/",
   "name": "template-landing-page",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://elielassis7.github.io/landingPageFitnessTest",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
