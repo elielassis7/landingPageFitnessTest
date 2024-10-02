@@ -6,8 +6,8 @@ export function Router() {
   return (
     <Routes>
 
-      <Route path="/" element={<Home />} />
-      <Route path="/success" element={<PageSuccess />} />
+      <Route path="/landingPageFitnessTest" element={<Home />} />
+      <Route path="/landingPageFitnessTest/success" element={<PageSuccess />} />
 
     </Routes >
   )
